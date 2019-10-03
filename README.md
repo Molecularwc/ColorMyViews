@@ -10,14 +10,14 @@ Time spent: <time>
 
 The following **required** functionality is complete:
 
-* [ ] Implement ConstraintLayout with manually defined constraints.
-* [ ] Use chaining to align TextViews.
-* [ ] Use baseline constraints to align text.
-* [ ] Change color of boxes and background by tapping screen and buttons.
+* [X] Implement ConstraintLayout with manually defined constraints.
+* [X] Use chaining to align TextViews.
+* [X] Use baseline constraints to align text.
+* [X] Change color of boxes and background by tapping screen and buttons.
 
 The following **additional** features are implemented:
 
-* [ ] Maintain UI state when switching orientation from portrait to landscape.
+* [X] Maintain UI state when switching orientation from portrait to landscape.
 * [ ] Replace TextViews with actual artwork.
 
 ## Video Walkthrough 
